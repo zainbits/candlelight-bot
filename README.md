@@ -17,10 +17,3 @@ To run the bot, use:
 ```
 python -m bot.main
 ```
-
-## Testing
-
-To run the tests, use:
-```
-python -m unittest discover -s tests
-```
